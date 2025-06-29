@@ -1,0 +1,43 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Output files (optional – include if you export notebooks)
+*.html
+*.pdf
+
+# Hidden system files
+.DS_Store
+Thumbs.db
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment and virtual env folders (if created inside notebook dir)
+env/
+venv/
+.venv/
+
+# VSCode settings (if editing via VSCode inside the folder)
+.vscode/
+
+# Jupyter runtime and config
+.jupyter/
+.jupyter_cache/
+
+# Data files (optional — uncomment if you want to keep data out of git)
+# *.csv
+# *.tsv
+# *.parquet
+# *.h5
+# *.feather
+# *.xlsx
+
+# Logs and outputs
+*.log
+*.out
+
+# Interactive widgets state (if using ipywidgets)
+.ipynb-widgets.json
